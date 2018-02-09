@@ -1,0 +1,19 @@
+{
+  "name": "hitt-institute-signin",
+  "version": "1.0.0",
+  "description": "An app for logging attendance for HITT University courses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalmazar/HITT-Institute-Class-Sign-in.git"
+  },
+  "author": "Amy Almazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalmazar/HITT-Institute-Class-Sign-in/issues"
+  },
+  "homepage": "https://github.com/amalmazar/HITT-Institute-Class-Sign-in#readme"
+}
